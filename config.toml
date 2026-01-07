@@ -28,5 +28,6 @@ build-mode = "both"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 patcher-args = "-e 'Custom branding name for Reddit' -OappName=Reddit RVX"
 build-mode = "apk"
