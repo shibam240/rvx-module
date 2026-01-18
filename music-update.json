@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches 3.15.0.rvp)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/shibam240/rvx-module/releases/download/3/music-revanced-extended-magisk-v8.30.54-arm64-v8a.zip",
+  "version": "v8.37.56 (patches 1.6.0.mpp)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/shibam240/rvx-module/releases/download/4/music-morphe-magisk-v8.37.56-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/shibam240/rvx-module/update/build.md"
 }
